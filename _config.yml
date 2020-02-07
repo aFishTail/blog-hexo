@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 沧浪
+subtitle: 'subtitle'
+description: '一条鱼尾的个人博客'
 keywords:
 author: fishtail
 language: zh-CN
