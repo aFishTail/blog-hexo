@@ -1,6 +1,8 @@
 ---
 title: Git中清除远程仓库HTTPS认证信息的方法
 date: 2020-04-14 21:10:46
+categories:
+- 随手记
 tags: git
 ---
 Git远程仓库同步时用户认证有两种方式：HTTPS、SSH，对应的Git仓库上有两个不同的链接地址。
