@@ -1,5 +1,7 @@
 ---
 title: Iview的FORM表单验证是异步的，多个表单验证问题
+categories:
+- 前端
 tags:
   - Javascript
   - Vue
