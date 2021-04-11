@@ -7,3 +7,4 @@ tags: [Vue, Javascript]
 ## 理解vue-router实现原理
 ## 掌握vuex理念与核心用法
 ## 理解vuex实现原理
+## 阅读源码
